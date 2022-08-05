@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dfbrasil&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfbrasil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![snake gif](https://github.com/dfbrasil/dfbrasil/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **dfbrasil/dfbrasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
