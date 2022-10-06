@@ -4,10 +4,6 @@
 
 
 <div align="center">
-  <div align="center">
-  <a href="https://github.com/dfbrasil">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dfbrasil&theme=github_dark"/>
-    </div>
 </br>
   <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfbrasil&layout=compact&theme=dark"/>
