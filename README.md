@@ -6,7 +6,10 @@
 <div align="center">
 </br>
   <div align="center">
-  (https://github-readme-stats.vercel.app/api/top-langs/?username=dbrasil)](https://github.com/anuraghazra/github-readme-stats)
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=dfbrasil&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="440"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dfbrasil&langs_count=8" width="313" />
+    
 </div>
 </div>
 </br>
