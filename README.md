@@ -6,7 +6,7 @@
 <div align="center">
 </br>
   <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfbrasil&layout=compact&theme=dark"/>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbrasil)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 </div>
 </br>
